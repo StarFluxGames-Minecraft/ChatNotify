@@ -1,0 +1,12 @@
+ name: ChatNotify
+ version: 1.0
+ description: Notify players when their username is mentioned
+ author: StarFluxGames
+ authors: [StarFluxGames] 
+ website: http://starfluxgames.com/
+ 
+ main: com.starfluxgames.chatnotify.Main
+ 
+ commands:
+   cnreload:
+     description: Reloads ChatNotify Config
